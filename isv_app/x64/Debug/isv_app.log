@@ -1,0 +1,7 @@
+﻿  Creating untrusted proxy/bridge routines
+  isv_app.cpp
+isv_app.cpp(443): error C2220: warning treated as error - no 'object' file generated
+isv_app.cpp(443): warning C4302: 'type cast': truncation from 'ra_samp_response_header_t *' to 'uint8_t'
+isv_app.cpp(127): warning C4189: 'enclave_lost_retry_time': local variable is initialized but not referenced
+isv_app.cpp(128): warning C4189: 'busy_retry_time': local variable is initialized but not referenced
+isv_app.cpp(363): warning C4189: 'precomputed_msg2': local variable is initialized but not referenced

@@ -1,0 +1,17 @@
+﻿  service_provider.cpp
+service_provider.cpp(136): error C2220: warning treated as error - no 'object' file generated
+service_provider.cpp(136): warning C4459: declaration of 'g_spid' hides global declaration
+  service_provider.cpp(136): note: to simplify migration, consider the temporary use of /Wv:18 flag with the version of the compiler with which you used to build without warnings
+  service_provider.cpp(70): note: see declaration of 'g_spid'
+service_provider.cpp(280): warning C4459: declaration of 'SAMPLE_AES_CMAC_KDF_ID' hides global declaration
+  service_provider.cpp(280): note: to simplify migration, consider the temporary use of /Wv:18 flag with the version of the compiler with which you used to build without warnings
+  c:\users\sgx-developer\desktop\test_ra\ra sample in sdk\service_provider\service_provider.h(89): note: see declaration of 'SAMPLE_AES_CMAC_KDF_ID'
+service_provider.cpp(207): warning C4390: ';': empty controlled statement found; is this the intent?
+service_provider.cpp(336): warning C4459: declaration of 'sample_ret' hides global declaration
+  service_provider.cpp(336): note: to simplify migration, consider the temporary use of /Wv:18 flag with the version of the compiler with which you used to build without warnings
+  service_provider.cpp(67): note: see declaration of 'sample_ret'
+  network_ra.cpp
+  ias_ra.cpp
+  ecp.cpp
+  Default key derivation function is used.
+  Generating Code...

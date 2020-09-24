@@ -1,0 +1,4 @@
+﻿  Creating proxy/bridge routines
+  isv_enclave.cpp
+isv_enclave.cpp(124): error C2220: warning treated as error - no 'object' file generated
+isv_enclave.cpp(124): warning C4100: 'p_mac': unreferenced formal parameter

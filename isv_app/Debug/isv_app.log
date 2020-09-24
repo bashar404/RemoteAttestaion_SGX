@@ -1,0 +1,6 @@
+﻿  Creating untrusted proxy/bridge routines
+  isv_app.cpp
+  isv_enclave_u.c
+  isv_app.vcxproj -> C:\Users\SGX-Developer\Desktop\RA latest\final version\Ra sdk\Debug\isv_app.exe
+  isv_app.vcxproj -> C:\Users\SGX-Developer\Desktop\RA latest\final version\Ra sdk\Debug\isv_app.pdb (Full PDB)
+          1 file(s) copied.
